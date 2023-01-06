@@ -1,0 +1,21 @@
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin_Tarlasi.Form1.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin_Tarlasi.Properties.Resources.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csproj.GenerateResource.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin_Tarlasi.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin_Tarlasi.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Mayın Tarlası\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.pdb
